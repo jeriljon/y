@@ -58,3 +58,13 @@ Secure resource access including filesystems, manage policies and execute privil
 
 ### XIII - Annotations
 + Create, apply, and process annotations
+
+### Setup and push to repo
+brew install gh
+Create project
+cd <project directory>
+git init -b main
+git add . && git commit -m "initial commit"
+gh auth login [Use PAT to login]
+gh repo create
+https://cli.github.com/manual/gh_repo_create
