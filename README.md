@@ -68,3 +68,8 @@ git add . && git commit -m "initial commit"
 gh auth login [Use PAT to login]
 gh repo create
 https://cli.github.com/manual/gh_repo_create
+
+References: 
++ https://howtodoinjava.com/java8/java-streams-by-examples/
++ https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
++ https://www.baeldung.com/java-8-streams
